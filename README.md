@@ -1,4 +1,5 @@
 # Welcome to your Expo app 👋
+Yhis project is for to learn how to use Expo and React Native. 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
